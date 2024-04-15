@@ -13,7 +13,7 @@ from tabulate import tabulate
 import keyboard
 #import BillGenerator
 
-ALPHA_VANTAGE_API_KEY = "HDF291TIVVGY7UDU"
+ALPHA_VANTAGE_API_KEY = "YOUR API KEY HERE"
 # GUI testing 
 # Functions for GUI
 def logout():
